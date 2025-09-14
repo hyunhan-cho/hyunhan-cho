@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:030202&height=180&text=Welcome%20to%20HYUNHAN's%20github&animation=fadeIn&fontColor=000000&fontSize=50" />
+</div>
 
 <div align="center">
   <p>
@@ -5,7 +8,7 @@
     사용자와 데이터를 효과적으로 잇는 서비스를 만드는 것을 좋아하며, 프론트엔드 기술까지 아우르는 풀스택 개발자를 꿈꾸고 있습니다.
   </p>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyunhan-cho&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunhan-cho&layout=compact&theme=tokyonight" alt="My Top Languages"/>
