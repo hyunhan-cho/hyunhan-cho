@@ -1,5 +1,19 @@
-<div align="center">
 
+<div align="center">
+  <p>
+    💡 백엔드 개발을 중심으로 <strong>NLP(자연어 처리)</strong>와 <strong>데이터 커뮤니케이션</strong> 분야에 깊은 흥미를 가지고 있습니다. <br>
+    사용자와 데이터를 효과적으로 잇는 서비스를 만드는 것을 좋아하며, 프론트엔드 기술까지 아우르는 풀스택 개발자를 꿈꾸고 있습니다.
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunhan-cho&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunhan-cho&layout=compact&theme=tokyonight" alt="My Top Languages"/>
+</div>
+
+<div align="center">
+  <hr>
+</div>
 <h2 align="center">🛠️ My Tech Stacks 🛠️</h2>
 
 ### 📚 Language & Backend
