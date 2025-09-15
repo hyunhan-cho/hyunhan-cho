@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:030202&height=180&text=Welcome%20to%20HYUNHAN's%20github&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
-
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="60">
+</p>
 <div align="center">
   <p>
     💡 백엔드 개발을 중심으로 <strong>NLP(자연어 처리)</strong>와 <strong>데이터 커뮤니케이션</strong> 분야에 깊은 흥미를 가지고 있습니다. <br>
