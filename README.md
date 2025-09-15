@@ -80,5 +80,13 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </p>
+ <a algin = "center" href="https://github.com/khee2/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Dessert99?pet-id=755345553358694342"
+    alt="GitAnimals"
+    style="width:100%; max-width:1000px; height:200px;"
+    loading="lazy"
+  />
+</a>
 
 </div>
