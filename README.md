@@ -80,7 +80,10 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </p>
-## 🏅 해커톤/대회 인증 뱃지
+<div align="center">
+  <hr>
+</div>
+<h3>🏅 해커톤/대회 인증 뱃지</h3>
 
 <p align="center">
   <img
