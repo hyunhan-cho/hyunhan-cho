@@ -80,6 +80,18 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </p>
+## 🏅 해커톤/대회 인증 뱃지
+
+<p align="center">
+  <img
+    src="./2025학년도 대학-지역사회 연계 해커톤 프로젝트_ K-HTML 해커톤 대회 참여_image.png"
+    alt="K-HTML 해커톤 인증 뱃지"
+    style="max-width:300px; height:auto; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);"
+  />
+</p>
+
+-   **대회명:** 2025학년도 대학-지역사회 연계 해커톤 프로젝트: K-HTML 해커톤 대회
+-   **인증서 발급처:** 경희대학교 / K-HTML 해커톤 조직위
  <a algin = "center" href="https://github.com/khee2/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Dessert99?pet-id=755345553358694342"
@@ -88,5 +100,6 @@
     loading="lazy"
   />
 </a>
+
 
 </div>
