@@ -98,24 +98,20 @@
 
 <!-- 📜 수료증 섹션 -->
 <h3>📜 데이터 분석 수료증</h3>
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:flex-start;">
-  <div style="flex:1 1 240px; max-width:260px; text-align:center;">
-    <img
-      src="./조현한_bda_머신러닝수료증.png" 
-      alt="Big Data Analysis Certificate (ML 입문반)"
-      style="width:100%; height:auto; border:1px solid #ccc; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.12);"
-    />
-    <div style="margin-top:6px; font-size:14px; font-weight:600;">ML 입문반</div>
-  </div>
-  <div style="flex:1 1 240px; max-width:260px; text-align:center;">
-    <img
-      src="./조현한_bda_딥러닝수료증.png" 
-      alt="Big Data Analysis Certificate (딥러닝의 이해 1)"
-      style="width:100%; height:auto; border:1px solid #ccc; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.12);"
-    />
-    <div style="margin-top:6px; font-size:14px; font-weight:600;">딥러닝의 이해 1</div>
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="260">
+      <img src="./조현한_bda_머신러닝수료증.png" alt="ML 실무형 입문반 수료증" width="240"><br>
+      <sub><strong>ML 실무형 입문반</strong></sub>
+    </td>
+    <td align="center" width="260">
+      <img src="./조현한_bda_딥러닝수료증.png" alt="딥러닝의 이해 1 수료증" width="240"><br>
+      <sub><strong>딥러닝의 이해 1</strong></sub>
+    </td>
+  </tr>
+</table>
+
 
 <details>
 <summary><strong>📌 상세 정보 펼치기</strong></summary>
