@@ -98,20 +98,31 @@
 
 <!-- 📜 수료증 섹션 -->
 <h3>📜 데이터 분석 수료증</h3>
-<p align="center">
-  <img
-    src="./조현한_bda_머신러닝수료증.png" 
-    alt="Big Data Analysis Certificate"
-    style="max-width:480px; width:100%; height:auto; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
-  />
-</p>
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:flex-start;">
+  <div style="flex:1 1 360px; max-width:480px; text-align:center;">
+    <img
+      src="./조현한_bda_머신러닝수료증.png" 
+      alt="Big Data Analysis Certificate (ML 입문반)"
+      style="width:100%; height:auto; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+    />
+    <div style="margin-top:6px; font-size:14px; font-weight:600;">ML 실무형 입문반</div>
+  </div>
+  <div style="flex:1 1 360px; max-width:480px; text-align:center;">
+    <img
+      src="./조현한_bda_딥러닝수료증.png" 
+      alt="Big Data Analysis Certificate (딥러닝의 이해 1)"
+      style="width:100%; height:auto; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+    />
+    <div style="margin-top:6px; font-size:14px; font-weight:600;">딥러닝의 이해 1</div>
+  </div>
+</div>
 
 <details>
 <summary><strong>📌 상세 정보 펼치기</strong></summary>
 
 | 항목 | 내용 |
 |------|------|
-| 과정명 | Big Data Analysis (ML) 실무형 입문반 |
+| 과정명 | Big Data Analysis (ML) 실무형 입문반 / 딥러닝의 이해 1 |
 | 성명 | 조현한 |
 | 교육기간 | 2025.03.02 ~ 2025.08.31 |
 | 기관 | 빅데이터 학회 (B.D.A) |
