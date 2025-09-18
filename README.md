@@ -95,6 +95,28 @@
 
 -   **대회명:** 2025학년도 대학-지역사회 연계 해커톤 프로젝트: K-HTML 해커톤 대회
 -   **인증서 발급처:** 경희대학교 / K-HTML 해커톤 조직위
+
+<!-- 📜 수료증 섹션 -->
+<h3>📜 데이터 분석 수료증</h3>
+<p align="center">
+  <img
+    src="./조현한_bda_머신러닝수료증.png" 
+    alt="Big Data Analysis Certificate"
+    style="max-width:480px; width:100%; height:auto; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);"
+  />
+</p>
+
+<details>
+<summary><strong>📌 상세 정보 펼치기</strong></summary>
+
+| 항목 | 내용 |
+|------|------|
+| 과정명 | Big Data Analysis (ML) 실무형 입문반 |
+| 성명 | 조현한 |
+| 교육기간 | 2025.03.02 ~ 2025.08.31 |
+| 기관 | 빅데이터 학회 (B.D.A) |
+
+</details>
  <a algin = "center" href="https://github.com/khee2/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Dessert99?pet-id=755345553358694342"
