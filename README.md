@@ -103,7 +103,7 @@
   <tr>
     <td align="center" width="260">
       <img src="./조현한_bda_머신러닝수료증.png" alt="ML 실무형 입문반 수료증" width="240"><br>
-      <sub><strong>ML 실무형 입문반</strong></sub>
+      <sub><strong>ML  입문반</strong></sub>
     </td>
     <td align="center" width="260">
       <img src="./조현한_bda_딥러닝수료증.png" alt="딥러닝의 이해 1 수료증" width="240"><br>
@@ -118,7 +118,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| 과정명 | Big Data Analysis (ML) 실무형 입문반 / 딥러닝의 이해 1 |
+| 과정명 | Big Data Analysis (ML) 입문반 / 딥러닝의 이해 1 |
 | 성명 | 조현한 |
 | 교육기간 | 2025.03.02 ~ 2025.08.31 |
 | 기관 | 빅데이터 학회 (B.D.A) |
