@@ -124,6 +124,29 @@
 | 기관 | 빅데이터 학회 (B.D.A) |
 
 </details>
+
+<!-- 💻 코딩 수료증 섹션 -->
+<h3>💻 코딩 수료증</h3>
+
+<p align="center">
+  <img src="./노마드 js 수료증.png" alt="노마드 코더스 바닐라JS 2주 완성반 수료증" width="400">
+  <br>
+  <sub><strong>바닐라JS 2주 완성반</strong></sub>
+</p>
+
+<details>
+<summary><strong>📌 상세 정보 펼치기</strong></summary>
+
+| 항목 | 내용 |
+|------|------|
+| 과정명 | 바닐라JS 2주 완성반 |
+| 성명 | CHO HYUNHAN |
+| 수료일 | 2025년 9월 22일 |
+| 기관 | Nomad Coders |
+| 기술 스택 | Vanilla JavaScript |
+
+</details>
+
  <a algin = "center" href="https://github.com/khee2/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Dessert99?pet-id=755345553358694342"
